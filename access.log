@@ -1,0 +1,7 @@
+Mon, 26 Feb 2024 17:11:48 GMT - GET /product/99 - Processed in 8.79 ms
+Mon, 26 Feb 2024 17:15:25 GMT - GET /product/%600%60 - Processed in 4.47 ms
+Mon, 26 Feb 2024 17:15:31 GMT - GET /product/200 - Processed in 1.16 ms
+Mon, 26 Feb 2024 17:15:38 GMT - GET /product/2002 - Processed in 2.28 ms
+Mon, 26 Feb 2024 17:15:46 GMT - GET /product/1 - Processed in 1.25 ms
+Mon, 26 Feb 2024 17:15:49 GMT - GET /product/40 - Processed in 0.79 ms
+Mon, 26 Feb 2024 17:15:53 GMT - GET /product/40 - Processed in 0.97 ms
